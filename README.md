@@ -1,22 +1,6 @@
 # Notes-App
 A starter notes app that I created when I was 11. It was something that I was working on while learning the different concepts of Android Studio. It is an Android Notes application built with Java using Android Studio 2021 and API 30. The app allows users to create, view, edit, and delete text-based notes. Data persistence is handled using `SharedPreferences`.
 
-## 📂 Package Structure
-
-```
-com.example.notes
-│
-├── MainActivity.java         // Main activity displaying the list of notes
-├── NoteEditorActivity.java   // Activity for creating/editing a note
-├── res/
-│   └── layout/
-│       └── activity_main.xml  // Layout for MainActivity
-│   └── menu/
-│       └── add_note_menu.xml  // Menu resource to add new notes
-```
-
----
-
 ## 🚀 Features
 
 * View a list of saved notes.
